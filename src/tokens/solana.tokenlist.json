@@ -51105,7 +51105,11 @@
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9uvPWLQuNZtJXbDu877YG3ZXZrgUdhREh2CJk8cWk1Bj/logo.png",
       "tags": [
         "community-token",
-      ]
+      ],
+      "extensions": {
+        "description": "Dual Origin Token is a tech rewards integration token for your business.",
+        "website": "https://www.dualorigin.com/"
+      }
     },
     {
       "chainId": 101,
